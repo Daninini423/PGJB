@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "ProjectPGBJ.slnx",
+    "dotnet.defaultSolution": "PGJB.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
